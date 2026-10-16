@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0475-heaters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0475-heaters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0475-heaters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0475-heaters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
