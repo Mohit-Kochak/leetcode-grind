@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2942-find-words-containing-character](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2942-find-words-containing-character) |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0475-heaters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
