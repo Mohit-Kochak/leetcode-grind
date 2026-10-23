@@ -12,6 +12,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0475-heaters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0169-majority-element](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0169-majority-element) |
 | [0475-heaters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0475-heaters) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -76,6 +79,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,6 +91,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 ## Tree
@@ -131,4 +136,8 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0713-subarray-product-less-than-k) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
