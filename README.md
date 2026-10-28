@@ -43,12 +43,14 @@
 | [0392-is-subsequence](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2942-find-words-containing-character](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0713-subarray-product-less-than-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0713-subarray-product-less-than-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
@@ -138,6 +141,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0713-subarray-product-less-than-k) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2090-k-radius-subarray-averages) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Boyer–Moore Majority Vote Algorithm
