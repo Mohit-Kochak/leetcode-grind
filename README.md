@@ -19,6 +19,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2785-sort-vowels-in-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2785-sort-vowels-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2785-sort-vowels-in-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
 |  |
