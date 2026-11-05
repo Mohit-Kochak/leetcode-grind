@@ -112,6 +112,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -123,6 +124,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0700-search-in-a-binary-search-tree) |
 ## Stack
 |  |
@@ -136,6 +138,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -161,4 +164,12 @@
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
