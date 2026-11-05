@@ -17,6 +17,7 @@
 | [0475-heaters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0475-heaters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2785-sort-vowels-in-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2785-sort-vowels-in-a-string) |
@@ -31,6 +32,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1550-three-consecutive-odds](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1550-three-consecutive-odds) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -68,6 +70,7 @@
 | [0475-heaters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0475-heaters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +80,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0713-subarray-product-less-than-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
