@@ -48,6 +48,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
@@ -172,4 +173,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
