@@ -28,6 +28,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0169-majority-element) |
 | [0475-heaters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0475-heaters) |
+| [0643-maximum-average-subarray-i](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -152,6 +153,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0713-subarray-product-less-than-k) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2090-k-radius-subarray-averages) |
