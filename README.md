@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0009-palindrome-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
 |  |
