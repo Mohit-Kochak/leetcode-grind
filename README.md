@@ -51,6 +51,7 @@
 | [0392-is-subsequence](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2785-sort-vowels-in-a-string) |
@@ -70,6 +71,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [0169-majority-element](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0713-subarray-product-less-than-k) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2444-count-subarrays-with-fixed-bounds) |
