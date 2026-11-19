@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0002-add-two-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
 |  |
@@ -184,4 +185,12 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mohit-Kochak/leetcode-grind/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
